@@ -2,7 +2,8 @@
   Moro em Jaragua do Sul
   <h1>
     34 anos
+    Aprendendo a programar
   </h1>
  
-  Aprendendo a Programar
+  
 </h1>
